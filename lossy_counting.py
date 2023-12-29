@@ -61,6 +61,8 @@ class LossyCount:
             del self.__indivual_frequencies[key]
             del self.__individual_maximumError[key]
 
+    # get the results of the counter
+    # can get the whatever top counters
     def getResults(self, top=5):
         to_return = {k:v for k, v in self.__indivual_frequencies.items()\
                 if v >= (self.__frequency_treshold - self.__error) * self.__processedDataCounter}
