@@ -16,7 +16,7 @@ print("Lossy counter: ", lc1.getResults(10))
 print("Approximate counter: ", aprox_counter(rj_english, top=10))
 print("\n")
 
-""" rj_german = format_text(read_file("RomeoJuliet_de.txt", 76, 5291), string.ascii_letters).upper()
+rj_german = format_text(read_file("RomeoJuliet_de.txt", 76, 5291), string.ascii_letters).upper()
 
 print("Book: Romeo & Juliet --> German version")
 print("Exact counter: ", exact_count(rj_german, 10))
@@ -34,4 +34,4 @@ print("Exact counter: ", exact_count(rj_french, 10))
 lc3 = LossyCount(0.02, 0.002)
 lc3.processDatastream(rj_french)
 print("Lossy counter: ", lc3.getResults(10))
-print("\n") """
+print("\n")
