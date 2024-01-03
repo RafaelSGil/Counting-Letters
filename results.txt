@@ -1,0 +1,108 @@
+Book: Romeo & Juliet --> English version
+
+Exact counter: {'E': 12839, 'T': 9785, 'O': 8847}
+Lossy counter: {'E': 12621, 'T': 9570, 'O': 8632}
+Approximate counter: {'E': 771, 'T': 629, 'O': 573}
+
+Exact counter took 0.008878400025423616 seconds
+Lossy counter took 0.0322617000201717 seconds
+Approximate counter took 0.04312649997882545 seconds
+
+==================================================================================
+
+Book: Romeo & Juliet --> German version
+
+Exact counter: {'E': 16435, 'N': 9992, 'I': 9532}
+Lossy counter: {'E': 16205, 'N': 9767, 'I': 9308}
+Approximate counter: {'E': 1030, 'N': 634, 'I': 585}
+
+Exact counter took 0.009126399992965162 seconds
+Lossy counter took 0.03411260002758354 seconds
+Approximate counter took 0.04679200000828132 seconds
+
+==================================================================================
+
+Book: Romeo & Juliet --> French version
+
+Exact counter: {'E': 26813, 'S': 12710, 'T': 12476}
+Lossy counter: {'E': 26469, 'S': 12371, 'T': 12134}
+Approximate counter: {'E': 1733, 'S': 777, 'R': 767}
+
+Exact counter took 0.013313799980096519 seconds
+Lossy counter took 0.05008680000901222 seconds
+Approximate counter took 0.06829699996160343 seconds
+
+==================================================================================
+
+Book: Romeo & Juliet --> English version
+
+Exact counter: {'E': 12839, 'T': 9785, 'O': 8847, 'A': 8300, 'I': 6949}
+Lossy counter: {'E': 12621, 'T': 9570, 'O': 8632, 'A': 8086, 'I': 6735}
+Approximate counter: {'E': 779, 'T': 587, 'O': 565, 'A': 560, 'I': 456}
+
+Exact counter took 0.008385099994484335 seconds
+Lossy counter took 0.031884900003205985 seconds
+Approximate counter took 0.047552700038067997 seconds
+
+==================================================================================
+
+Book: Romeo & Juliet --> German version
+
+Exact counter: {'E': 16435, 'N': 9992, 'I': 9532, 'R': 8333, 'T': 7927}
+Lossy counter: {'E': 16205, 'N': 9767, 'I': 9308, 'R': 8107, 'T': 7699}
+Approximate counter: {'E': 1032, 'N': 643, 'I': 597, 'R': 512, 'T': 487}
+
+Exact counter took 0.008515099994838238 seconds
+Lossy counter took 0.03418200003216043 seconds
+Approximate counter took 0.04624259995762259 seconds
+
+==================================================================================
+
+Book: Romeo & Juliet --> French version
+
+Exact counter: {'E': 26813, 'S': 12710, 'T': 12476, 'R': 12248, 'A': 11951}
+Lossy counter: {'E': 26469, 'S': 12371, 'T': 12134, 'R': 11908, 'A': 11610}
+Approximate counter: {'E': 1578, 'T': 783, 'S': 774, 'O': 769, 'R': 756}
+
+Exact counter took 0.012467900000046939 seconds
+Lossy counter took 0.04952599998796359 seconds
+Approximate counter took 0.06808920000912622 seconds
+
+==================================================================================
+
+Book: Romeo & Juliet --> English version
+
+Exact counter: {'E': 12839, 'T': 9785, 'O': 8847, 'A': 8300, 'I': 6949, 'H': 6802, 'S': 6647, 'N': 6541, 'R': 6533, 'L': 5006}
+Lossy counter: {'E': 12621, 'T': 9570, 'O': 8632, 'A': 8086, 'I': 6735, 'H': 6588, 'S': 6434, 'N': 6326, 'R': 6318, 'L': 4792}
+Approximate counter: {'E': 769, 'T': 609, 'O': 547, 'A': 505, 'I': 462, 'H': 405, 'S': 402, 'R': 398, 'N': 371, 'L': 311}
+
+Exact counter took 0.009492299985140562 seconds
+Lossy counter took 0.033375500002875924 seconds
+Approximate counter took 0.046621200046502054 seconds
+
+==================================================================================
+
+Book: Romeo & Juliet --> German version
+
+Exact counter: {'E': 16435, 'N': 9992, 'I': 9532, 'R': 8333, 'T': 7927, 'S': 6408, 'H': 6202, 'A': 5659, 'D': 4921, 'U': 4616}
+Lossy counter: {'E': 16205, 'N': 9767, 'I': 9308, 'R': 8107, 'T': 7699, 'S': 6181, 'H': 5978, 'A': 5433, 'D': 4698, 'U': 4391}
+Approximate counter: {'E': 1027, 'I': 609, 'N': 601, 'R': 523, 'T': 495, 'H': 411, 'S': 378, 'A': 360, 'D': 302, 'L': 281}
+
+Exact counter took 0.008656900026835501 seconds
+Lossy counter took 0.031950300035532564 seconds
+Approximate counter took 0.044253300002310425 seconds
+
+==================================================================================
+
+Book: Romeo & Juliet --> French version
+
+Exact counter: {'E': 26813, 'S': 12710, 'T': 12476, 'R': 12248, 'A': 11951, 'N': 11743, 'O': 11727, 'I': 11711, 'U': 11241, 'L': 9375}
+Lossy counter: {'E': 26469, 'S': 12371, 'T': 12134, 'R': 11908, 'A': 11610, 'N': 11399, 'O': 11382, 'I': 11371, 'U': 10901, 'L': 9035}
+Approximate counter: {'E': 1679, 'S': 812, 'T': 812, 'A': 784, 'N': 748, 'R': 747, 'U': 738, 'I': 738, 'O': 738, 'L': 559}
+
+Exact counter took 0.013177499989978969 seconds
+Lossy counter took 0.049593300034757704 seconds
+Approximate counter took 0.06658310000784695 seconds
+
+==================================================================================
+
